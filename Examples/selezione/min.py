@@ -6,4 +6,4 @@ def minimum(a):
     return min
 
 a = [12,3,4,235,5,3,2,165]
-print(minimum(a));
+print(minimum(a))
